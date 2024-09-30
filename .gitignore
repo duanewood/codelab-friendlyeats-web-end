@@ -1,4 +1,7 @@
 lib/firebase/config.js
+public/auth-service-worker.js
 .next/
 .firebase/
 node_modules/
+.env
+.env.*
